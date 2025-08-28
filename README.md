@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=ffffff&reversal=true&animation=fadeIn&descAlignY=0&descAlign=50"/>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=ffffff&width=600&lines=Hi,+I'm+Mauro!+😃" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.instagram.com/mauro2013oliv/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
